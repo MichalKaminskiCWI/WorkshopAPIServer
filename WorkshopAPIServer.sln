@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30711.63
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkshopAPIServer", "WorkshopAPIServer.csproj", "{AB646375-D698-4A5B-92F1-BD0794993ED7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WorkshopAPIServer", "WorkshopAPIServer.csproj", "{AB646375-D698-4A5B-92F1-BD0794993ED7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestWorkshop", "..\TestWorkshop\TestWorkshop.csproj", "{B48C96BF-31D8-4F0F-8651-AB1813B5534E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{AB646375-D698-4A5B-92F1-BD0794993ED7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AB646375-D698-4A5B-92F1-BD0794993ED7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AB646375-D698-4A5B-92F1-BD0794993ED7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B48C96BF-31D8-4F0F-8651-AB1813B5534E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B48C96BF-31D8-4F0F-8651-AB1813B5534E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B48C96BF-31D8-4F0F-8651-AB1813B5534E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B48C96BF-31D8-4F0F-8651-AB1813B5534E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
